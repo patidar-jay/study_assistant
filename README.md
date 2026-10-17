@@ -73,3 +73,7 @@ Self-Assessment: Set the question count, attempt the generated MCQs, and receive
 
 🛡️ License
 This project is open-source and available under the MIT License.
+# study_assistant
+# study_assistant
+# study_assistant
+# study_assistant
